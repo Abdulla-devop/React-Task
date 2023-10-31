@@ -1,0 +1,19 @@
+.cart-area{
+  display:flex;
+  gap:1rem;
+}
+
+.card-component{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  height:250px;
+  border: 1px solid black;
+  justify-content: stretch;
+}
+
+img{
+  width:200px;
+  height: 160px;
+  object-fit: contain;
+}
